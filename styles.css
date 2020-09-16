@@ -1,0 +1,60 @@
+/* to do still: resize map, create rows for other images */
+
+body {
+    width: 100%;
+    background-color:  #fbe3e8;
+    margin: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    text-align: center;
+    color: #800000;
+    padding: 15px;
+}
+
+h1 {
+    color: #800000;
+    text-align: center;
+}
+
+h2 {
+    color: #800000;
+}
+
+h3 {
+    color: rgb(72, 78, 60);
+    font-size: x-large;
+    text-align: center;
+}
+
+h4 {
+    color: rgb(72, 78, 60);
+    font-size: large;
+    padding-top: 15px;
+}
+
+section {
+    padding-top: 30px;
+    /* padding-bottom: 20px; */
+}
+
+img {
+    padding: 10px;
+    max-width: 30%;
+    max-height: 300px;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spanish {
+    font-family: 'Homemade Apple', cursive;
+}
+
+#video {
+    text-align: center;
+    color: darkolivegreen;
+    font-size: large;
+}
+
